@@ -1,7 +1,0 @@
----
-title: "New York Air Quality Data Feature Exploration App"
-author: "DRC"
-output: html_document
----
-
-<https://drchachere.shinyapps.io/course-9_cp/>

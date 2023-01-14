@@ -23,7 +23,7 @@ shinyUI(pageWithSidebar(
     mainPanel(
         p("This app is for exploring the features in the R dataset airquality.  
         The primary feature is represented along the y-axis, 
-          and the secondary features is used to color each point by quantile."),
+          and the secondary features is used to color each point by quartile"),
         plotlyOutput("newChart")
     )
 ))
